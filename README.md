@@ -54,6 +54,8 @@ No high-level neural network framework was used.
 
 The project uses the **Wisconsin Diagnostic Breast Cancer (WDBC)** dataset.
 
+URL to download the dataset -> https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+
 The dataset contains:
 
 * 569 samples
